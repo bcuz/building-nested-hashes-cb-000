@@ -28,7 +28,7 @@ def second_challenge
 
       },
 
-      heroine_friends: {}
+      heroine_friends:[]
       }}
 
 
